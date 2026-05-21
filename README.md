@@ -1,6 +1,6 @@
 # Spam-Detection-Using-LSTM
 
-#  Spam Detection System Using LSTM Deep Learning Model
+#  Intelligent Spam Detection System
 
 ##  Project Overview
 
